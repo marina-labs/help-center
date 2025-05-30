@@ -1,16 +1,27 @@
-# How to Delete Your Account from Planora
+# 🧹 Delete Your Planora Account
 
-If you want to delete your account and all associated data from **Planora**, please follow these steps:
-
-## 🔥 Account Deletion Instructions
-
-1. Open the **Planora** app.
-2. Go to **Account → Account Settings → Delete Account**.
-3. Confirm the deletion by entering your password or confirming via email.
-4. Your data will be permanently deleted within 24 hours.
-
-If you encounter any issues, please contact us at [dt148f148t@gmail.com](mailto:dt148f148t@gmail.com).
+If you no longer wish to use **Planora**, you can permanently delete your account and associated data by following the steps below.
 
 ---
 
-*Last updated: May 30, 2025*
+## 🪪 Steps to Delete Your Account
+
+1. Open the **Planora** app on your device.
+2. Go to **Account** → **Account Settings**.
+3. Tap **Delete Account** at the bottom of the screen.
+4. Confirm the deletion by following the on-screen instructions.
+
+> ⚠️ This action is irreversible and will remove all your data permanently.
+
+---
+
+## 🤔 Need Help?
+
+If you're unable to delete your account using the app, please contact us at:  
+📧 [dt148f148t@gmail.com](mailto:dt148f148t@gmail.com)  
+Include the subject line: **Delete Planora Account**
+
+---
+
+_Last updated: May 30, 2025_  
+_Marina Labs_

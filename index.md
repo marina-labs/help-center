@@ -6,7 +6,9 @@ Welcome to the official Help Center for **Marina Labs**. Here you’ll find ever
 
 ## 📂 Help Topics
 
-- 🧹 [How to Delete Your Account](./delete-account)
+### Planora
+
+- 🧹 [Delete Your Planora Account](./planora/account-deletion)
 - 🔐 [Privacy Policy](./privacy)
 - 💌 [Contact Support](./support)
 - ❓ [Frequently Asked Questions (FAQ)](./faq)
