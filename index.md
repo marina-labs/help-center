@@ -9,6 +9,15 @@ Welcome to the official Help Center for **Marina Labs**. Here you’ll find ever
 ### Planora
 
 - 🧹 [Delete Your Planora Account](./planora/account-deletion)
+- 📋 [Terms of Service](./planora/terms-of-service)
+- 🔐 [Privacy Policy](./privacy)
+- 💌 [Contact Support](./support)
+- ❓ [Frequently Asked Questions (FAQ)](./faq)
+
+### Onely
+
+- 🧹 [Delete Your Onely Account](./onely/account-deletion)
+- 📋 [Terms of Service](./onely/terms-of-service)
 - 🔐 [Privacy Policy](./privacy)
 - 💌 [Contact Support](./support)
 - ❓ [Frequently Asked Questions (FAQ)](./faq)
