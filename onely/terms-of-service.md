@@ -26,6 +26,8 @@
 19. [Force Majeure](#19-force-majeure)
 20. [General Provisions](#20-general-provisions)
 21. [Contact Information](#21-contact-information)
+22. [Apple-Specific Provisions](#22-apple-specific-provisions)
+22. [Apple-Specific Provisions](#22-apple-specific-provisions)
 
 ---
 
@@ -79,6 +81,15 @@ The Service may not be available in all countries or jurisdictions. You are resp
 ### 3.3 Account Limitations
 You may only create and maintain one Account. Creating multiple Accounts to circumvent restrictions or obtain additional benefits is prohibited and may result in termination of all Accounts.
 
+### 3.4 Parental Consent
+If you are under the age of majority in your jurisdiction but at least 13 years old, you may use the Service only with the involvement, supervision, and approval of a parent or legal guardian who agrees to be bound by these Terms. If you are a parent or legal guardian agreeing to these Terms for the benefit of a minor, you are fully responsible for their use of the Service, including all financial charges and legal liability.
+
+### 3.5 Children Under 13
+The Service is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.
+
+### 3.6 Apple ID Requirements
+For iOS users, you must have a valid Apple ID to download and use the app. Your Apple ID and its use are subject to Apple's Terms and Conditions and Privacy Policy.
+
 ---
 
 ## 4. Service Description and Availability
@@ -129,18 +140,23 @@ We offer various subscription plans that provide access to Premium Services. Cur
 
 ### 6.2 Billing and Payment
 #### 6.2.1 Payment Processing
-All payments are processed through the respective app store (Google Play Store or Apple App Store) payment systems. By subscribing, you authorize the app store to charge your selected payment method.
+All payments for iOS devices are processed through Apple's App Store payment system. All payments for Android devices are processed through Google Play Store payment system. By subscribing, you authorize the respective app store to charge your selected payment method according to their terms and conditions.
 
 #### 6.2.2 Subscription Fees
 - Subscription fees are charged in advance for each billing period
-- All fees are stated in the currency applicable to your region
-- Fees are non-refundable except as expressly provided in these Terms or required by applicable law
+- All fees are stated in the currency applicable to your region as determined by the app store
+- Fees are non-refundable except as expressly provided in these Terms, required by applicable law, or as provided by the app store's refund policy
+- Payment will be charged to your iTunes Account (for iOS) or Google Play account (for Android) at confirmation of purchase
 
 #### 6.2.3 Automatic Renewal
-Subscriptions automatically renew for successive periods unless cancelled before the renewal date. You may cancel your subscription through your device's app store settings.
+- Subscriptions automatically renew for successive periods unless cancelled at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- You may cancel your subscription through your device's app store settings
+- For iOS: You can manage and cancel subscriptions by going to your Account Settings on the App Store
+- For Android: You can manage and cancel subscriptions through your Google Play Store account settings
 
 #### 6.2.4 Price Changes
-We may modify subscription prices with at least 30 days' notice. Price changes will apply to subsequent billing periods following the notice period.
+We may modify subscription prices with at least 30 days' notice through the app store. Price changes will apply to subsequent billing periods following the notice period. You will be notified of price changes through the app store's notification system.
 
 ### 6.3 Free Trials and Promotional Offers
 We may offer free trials or promotional pricing for Premium Services. Special terms may apply to such offers, and we reserve the right to modify or discontinue promotional offers at any time.
@@ -149,7 +165,16 @@ We may offer free trials or promotional pricing for Premium Services. Special te
 You are responsible for all applicable taxes related to your use of Premium Services, including sales tax, value-added tax, and other governmental taxes or fees.
 
 ### 6.5 Refunds
-Refund policies are governed by the applicable app store's refund policies. We may provide additional refunds at our sole discretion or as required by applicable law.
+#### 6.5.1 App Store Refund Policies
+- For iOS purchases: Refund policies are governed by Apple's App Store refund policies. You may request refunds directly from Apple through your iTunes account or by contacting Apple Support
+- For Android purchases: Refund policies are governed by Google Play Store refund policies
+- We may provide additional refunds at our sole discretion or as required by applicable law
+
+#### 6.5.2 In-App Purchase Refunds
+All refunds for in-app purchases must be requested through the respective app store (Apple App Store or Google Play Store). Marina Labs does not process direct refunds for purchases made through app stores.
+
+#### 6.5.3 Subscription Cancellation Rights
+You have the right to cancel your subscription at any time. Cancellation will take effect at the end of your current billing period, and you will continue to have access to premium features until that time.
 
 ---
 
@@ -191,27 +216,45 @@ You agree not to use the Service to:
 - Violate any applicable laws, regulations, or third-party rights
 - Engage in any fraudulent, deceptive, or misleading activities
 - Facilitate money laundering, terrorism financing, or other criminal activities
+- Violate any applicable export control laws
 
 #### 8.1.2 Harmful Content
 - Upload, post, or transmit harmful, threatening, abusive, harassing, defamatory, or discriminatory content
 - Share content that promotes violence, hate speech, or self-harm
 - Distribute sexually explicit or inappropriate content involving minors
+- Share content that promotes illegal drug use or other illegal activities
+- Upload content that contains graphic violence or disturbing imagery
 
 #### 8.1.3 Technical Violations
 - Attempt to gain unauthorized access to the Service or related systems
 - Interfere with or disrupt the Service's functionality or security
-- Use automated systems or bots to access the Service
+- Use automated systems or bots to access the Service without permission
 - Introduce malware, viruses, or other harmful code
+- Attempt to reverse engineer, decompile, or disassemble the app
+- Circumvent any security features or access controls
 
 #### 8.1.4 Intellectual Property Violations
 - Infringe upon the intellectual property rights of others
 - Share copyrighted material without proper authorization
 - Impersonate any person or entity
+- Use trademarks, service marks, or copyrighted material without permission
 
 #### 8.1.5 Spam and Abuse
 - Send unsolicited communications or spam
 - Engage in any form of harassment or bullying
 - Create fake accounts or misrepresent your identity
+- Engage in any form of commercial solicitation without permission
+- Use the Service for any commercial purpose not expressly permitted
+
+#### 8.1.6 Privacy Violations
+- Collect personal information from other users without consent
+- Share private information of other users
+- Violate the privacy rights of others
+
+#### 8.1.7 Platform Violations
+- Violate Apple App Store Review Guidelines or Google Play Policies
+- Attempt to manipulate app store ratings or reviews
+- Engage in activities that could result in app store removal
 
 ### 8.2 Reporting Violations
 Users may report violations of this Acceptable Use Policy through our designated reporting mechanisms within the App or by contacting our support team.
@@ -255,11 +298,38 @@ Your use of the Service through app stores is subject to the respective app stor
 
 ## 11. Platform-Specific Terms
 
-### 11.1 iOS Devices
-When using the Service on iOS devices:
-- These Terms are between you and Marina Labs, not Apple Inc.
-- Apple is not responsible for the Service or any claims related to it
-- Apple and its subsidiaries are third-party beneficiaries of these Terms
+### 11.1 iOS Devices and Apple App Store Terms
+When using the Service on iOS devices downloaded from the Apple App Store, the following additional terms apply:
+
+#### 11.1.1 Acknowledgment
+You acknowledge that these Terms are concluded between you and Marina Labs only, and not with Apple Inc. ("Apple"). Marina Labs, not Apple, is solely responsible for the Onely app and its content.
+
+#### 11.1.2 Scope of License
+The license granted to you for the Onely app is limited to a non-transferable license to use the app on any Apple-branded products that you own or control and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions.
+
+#### 11.1.3 Maintenance and Support
+Marina Labs is solely responsible for providing any maintenance and support services with respect to the Onely app, as specified in these Terms or as required under applicable law. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the app.
+
+#### 11.1.4 Warranty
+Marina Labs is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. In the event of any failure of the app to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the app to you; to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the app, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be Marina Labs' sole responsibility.
+
+#### 11.1.5 Product Claims
+Marina Labs and you acknowledge that Marina Labs, not Apple, is responsible for addressing any claims of you or any third party relating to the app or your possession and/or use of the app, including, but not limited to: (i) product liability claims; (ii) any claim that the app fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+
+#### 11.1.6 Intellectual Property Claims
+Marina Labs and you acknowledge that, in the event of any third party claim that the app or your possession and use of the app infringes that third party's intellectual property rights, Marina Labs, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+
+#### 11.1.7 Legal Compliance
+You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+#### 11.1.8 Developer Name and Address
+You must contact Marina Labs at dt148f148@gmail.com for any questions, complaints or claims with respect to the app.
+
+#### 11.1.9 Third Party Terms of Agreement
+You must comply with applicable third party terms of agreement when using the app.
+
+#### 11.1.10 Third Party Beneficiary
+Apple and Apple's subsidiaries are third party beneficiaries of these Terms, and upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
 
 ### 11.2 Android Devices
 When using the Service on Android devices through Google Play Store:
@@ -444,6 +514,43 @@ If you have any questions about these Terms of Service, please contact us at:
 ⏰ **Response Time:** We strive to respond to all inquiries within 48 hours
 
 For technical support, account issues, or general inquiries, please use the contact methods provided within the App or email us at the address above.
+
+---
+
+## 22. Apple-Specific Provisions
+
+### 22.1 App Store Purchased Applications
+If you downloaded the Onely app from the Apple App Store, the following provisions apply in addition to all other terms:
+
+#### 22.1.1 Acknowledgment
+Both you and Marina Labs acknowledge that these Terms are concluded between you and Marina Labs only, and not with Apple, and that Apple is not responsible for the App or the content thereof.
+
+#### 22.1.2 App Store Terms Control
+Your use of the App must comply with the App Store Terms of Service available at https://www.apple.com/legal/internet-services/itunes/. In the event of any conflict between these Terms and the App Store Terms of Service, the App Store Terms of Service shall govern.
+
+#### 22.1.3 License
+The license granted to you for the App is limited to a non-transferable license to use the App on any Apple-branded products that you own or control and as permitted by the Usage Rules set forth in the App Store Terms of Service.
+
+#### 22.1.4 Maintenance and Support
+Marina Labs is solely responsible for providing any maintenance and support services with respect to the App, as specified in these Terms or as required under applicable law. You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App.
+
+#### 22.1.5 Warranty
+Marina Labs is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. In the event of any failure of the App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App to you (if any); to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be Marina Labs' sole responsibility.
+
+#### 22.1.6 Product Claims
+Marina Labs and you acknowledge that Marina Labs, not Apple, is responsible for addressing any claims of you or any third party relating to the App or your possession and/or use of that App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation, including in connection with your App's use of the HealthKit and HomeKit frameworks.
+
+#### 22.1.7 Intellectual Property Claims
+Marina Labs and you acknowledge that, in the event of any third party claim that the App or your possession and use of that App infringes that third party's intellectual property rights, Marina Labs, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+
+#### 22.1.8 Legal Compliance
+You represent and warrant that: (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+#### 22.1.9 Third Party Terms
+You must comply with applicable third party terms of agreement when using the App (e.g., if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the App).
+
+#### 22.1.10 Third Party Beneficiary
+Marina Labs and you acknowledge and agree that Apple, and Apple's subsidiaries, are third party beneficiaries of these Terms, and that, upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
 
 ---
 
